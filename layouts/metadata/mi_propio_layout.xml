@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata layout="mi_propio_layout">
+   <option iso="es" name="Español">el layout definitivo para osmtracker hecho por la app</option>
+   <github username="OSMLayoutSmith" repo="osmtracker-custom-layouts" branch="master" />
+</metadata>

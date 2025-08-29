@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout name="root">
+      <row>
+        <button type="textnote" icon="text_32x32" />
+        <button type="voicerec" icon="voice_32x32" />
+        <button type="picture" icon="camera_32x32" />
+      </row>
+      <row>
+        <button type="tag" label="mi_boton1" icon="mi_propio_layout_icons/ChatGPT Image Aug 9, 2025, 11_46_11 PM.png"/>
+        <button type="tag" label="mi_boton2" icon="mi_propio_layout_icons/ChatGPT Image Aug 9, 2025, 11_46_11 PM.png"/>
+        <button type="tag" label="mi_boton3" icon="mi_propio_layout_icons/ChatGPT Image Aug 9, 2025, 11_46_11 PM.png"/>
+      </row>
+      <row>
+        <button type="page" label="mi_boton4" icon="mi_propio_layout_icons/ChatGPT Image Jul 23, 2025, 05_13_42 PM.png" targetLayout="undefined_layout"/>
+      </row>
+  </layout>
+  <layout name="undefined_layout">
+      <row>
+        <button type="tag" label="mi_boton4_1" icon="mi_propio_layout_icons/6lwbpsp4rklb1.png"/>
+      </row>
+  </layout>
+</layouts>
